@@ -1,2 +1,2 @@
 # Libft
-mi liberia
+Liberia en c
